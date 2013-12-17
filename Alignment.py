@@ -1,13 +1,13 @@
 '''
 Created on Nov 25, 2013
 @author: Ambarish Hazarnis
-Run as> python HW5.py
+Run as> python Alignment.py
 '''
 
 from Sequence import *
 
 # Below function finds- 
-#    1. Maximum score for global alignement
+#    1. Maximum score for global alignment
 #    2. Global Sequence Alignment
 #    3. Similarity Measure
    
